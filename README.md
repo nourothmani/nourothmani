@@ -16,10 +16,12 @@ Structuring, coding, and executing university graduation projects.
 🛠️ Tech Stack
 
 Programming: Python, C, C++, JavaScript, HTML
+
 Hardware/ IoT: ESP32, Arduino, STM32, Raspberry Pi, Jetson Nano, Sensors
 Frameworks: ROS, Gazebo, Azure, Jupyter
 
 📫 How to reach me
 
 Email: nouroth16@gmail.com
+
 LinkedIn: www.linkedin.com/in/nour-otmani
