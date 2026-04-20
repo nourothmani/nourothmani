@@ -23,5 +23,4 @@ Frameworks: ROS, Gazebo, Azure, Jupyter
 📫 How to reach me
 
 Email: nouroth16@gmail.com
-
 LinkedIn: www.linkedin.com/in/nour-otmani
